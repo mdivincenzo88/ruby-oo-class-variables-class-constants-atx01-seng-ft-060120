@@ -5,6 +5,8 @@ class Shoe
 BRANDS = []
   def initialize(brand)
     @brand = brand
+    
+    if
        BRANDS << brand
   end
 
