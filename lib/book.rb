@@ -18,3 +18,4 @@ def genre
    GENRES << genre
 
 end
+end
